@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# desafio-dio-dynamodb
+Repositório para o desafio Dio DynamoDB
 
 ### Serviço utilizado
   - Amazon DynamoDB
